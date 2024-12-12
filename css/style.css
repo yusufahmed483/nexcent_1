@@ -1,0 +1,92 @@
+/* navber start */
+.button a{
+    background-color: #4CAF4F;
+    padding: 10px 22px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    border: 1px solid transparent;
+    margin-left: 10px;
+    display: inline-block;
+}
+.button a:hover{
+    background: transparent;
+    color: #4CAF4F;
+    border-color: black;
+    
+}
+
+nav{
+    background: #F5F7FA;
+    padding: 22px 0px !important;
+}
+.navbar-nav{
+    column-gap: 50px;
+    padding-right: 50px;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: 500;
+    color: #18191F;
+    font-family: "Inter", sans-serif;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    transition: .4s;
+}
+.nav-link:hover{
+    color: black;
+}
+/* navber end */
+
+
+
+/* banner start */
+.banner{
+    background-color: #F5F7FA;
+    padding: 161px 0px;
+
+}
+.banner h1{
+    font-size: 64px;
+    color: #4D4D4D;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+
+}
+.banner h1 span{
+    color: #4CAF4F;
+} 
+.banner p{
+    font-size: 16px;
+    color: #717171;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    padding-bottom: 32px;
+    padding-top: 16px;
+}
+.banner-button a{
+    background-color: #4CAF4F;
+    padding: 14px 32px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    border: 1px solid transparent;
+    display: inline-block;
+
+}
+.banner-button a:hover{
+    background: transparent;
+    color: #4CAF4F;
+    border-color: black;
+    
+}
+
+
+
+/* banner end*/
